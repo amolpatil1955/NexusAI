@@ -53,7 +53,7 @@ It helps users create professional resumes, optimize them for ATS systems, and i
 - MongoDB
 
 ### AI Integration
-- OpenAI API / Google Gemini API
+- Groak AI Api 
 
 ---
 
